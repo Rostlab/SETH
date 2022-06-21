@@ -1,2 +1,4 @@
 # SETH
-Re-directing to the official SETH repository
+
+[`SETH`](https://github.com/DagmarIlz/SETH) is available at: https://github.com/DagmarIlz/SETH
+
